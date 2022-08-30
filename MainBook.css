@@ -1,0 +1,62 @@
+* {
+  background-color: #fff;
+  padding: 0;
+  margin: 0;
+  font-weight: lighter;
+}
+.booking-box {
+  text-align: center;
+  padding: 10%;
+  padding-left: 30%;
+  padding-right: 20%;
+}
+.booking-box1 {
+  display: flex;
+  padding: 5%;
+  justify-content: center;
+  justify-content: space-around;
+}
+.booking-box-body {
+  text-align: start;
+  padding-left: 10px;
+  padding-right: 25px;
+}
+.booking-box-img {
+  padding-top: 5px;
+}
+.booking-box-title {
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: "Masiku", sans-serif;
+}
+.booking-box-sub {
+  padding-top: 2px;
+  font-weight: lighter;
+  font-size: 15px;
+  padding-bottom: 10px;
+  font-family: "Straightler", sans-serif;
+}
+.booking-box-para {
+  font-size: 20px;
+}
+.booking-box-button {
+  display: block;
+  width: 250px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: black;
+  color: #fff;
+  font-size: 19px;
+}
+.booking-box1:hover {
+  transform: scale(1.1);
+  border: 1px solid black;
+}
+.booking-title {
+  padding-bottom: 15px;
+}
+.booking-more {
+  border: none;
+  font-size: medium;
+  padding-top: 14px;
+}
